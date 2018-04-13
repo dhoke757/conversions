@@ -1,0 +1,15 @@
+#Define conversions
+def cm_m(a):
+	return a/100
+def cm_km(a):
+	return a/100000
+def m_cm(a):
+	return a*100
+def m_km(a):
+	return a/1000
+def km_cm(a):
+	return a*100000
+def km_m(a):
+	return a*1000
+def m_m(a):
+	return a
